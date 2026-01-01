@@ -17,6 +17,9 @@
 </p>  
 A lightweight terminal-based real-time audio visualizer for Windows, powered by <a href="https://github.com/bastibe/SoundCard">SoundCard</a> and NumPy.  
 It captures system audio using WASAPI loopback and displays frequency bars in your terminal.
+
+> [!WARNING]
+> This project is freezed/archived due i have no time. Maybe will continue work in summer.
 <p align="center">
   <img src="preview.gif" width="100%">
 </p>
